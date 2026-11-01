@@ -71,7 +71,8 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
   and `git clone` whatever repos you want.
 - [Install Anaconda](https://www.anaconda.com/docs/getting-started/anaconda/install/mac-cli-install).
   - Disable auto-activation of conda's `base` (v)env: `conda config --set auto_activate false`.
-    Note: conda's virtual environments are technically _not_ Python venvs.
+    - Note: conda's virtual environments are technically _not_ Python venvs.
+    - Note: You may see `auto_activate` aliased as `auto_activate_base`.
   - Create a fresh Python virtual environment with `conda create --name=py_venv python anaconda`.
   - You can activate it with `conda activate py_venv`.
     Then, things like `jupyter lab` immediately work.
