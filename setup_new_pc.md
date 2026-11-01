@@ -43,7 +43,7 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
 - Install [HomeBrew](https://brew.sh/) with
   `/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"`.
   - Also proceed with any appropriate immediate post-install instructions (environment setup, `brew doctor`, etc).
-  - You can periodically update with `brew update && brew upgrade && brew cleanup`.
+  - You can periodically refresh everything with `brew update && brew upgrade && brew cleanup`.
 - [Generate a new SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent).
 - Seed `~/.ssh/config`:
   ```
@@ -76,7 +76,7 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
   - Create a fresh Python virtual environment with `conda create --name=py_venv python anaconda`.
   - You can activate it with `conda activate py_venv`.
     Then, things like `jupyter lab` immediately work.
-  - You can refresh/update/upgrade everything once in a while with
+  - You can periodically refresh everything with
     `conda deactivate && conda remove --name=py_venv --all && conda self update && conda create --name=py_venv python anaconda`.
   - TODO: Evaluate migrating from Anaconda
     (admittedly bloated/clunky but also convenient for local scientific workflows,
