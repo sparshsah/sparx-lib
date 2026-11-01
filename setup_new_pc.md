@@ -15,15 +15,15 @@ but are generally pretty safe.
   - You can also save/restore location/size/order as a plist.
 - System Settings > Desktop & Dock > Hot Corners > Bottom Right > DESKTOP.
 - System Settings > Desktop & Dock > Mission Control >
-  Automatically rearrange Spaces based on most recent use > OFF.
+  Automatically rearrange Spaces based on most recent use > NO.
 - Quasi-`caffeinate` on charger:
   System Settings > Battery > Options >
   Prevent automatic sleeping on power adapter when the display is off > YES.
 - Pin `~` to the LHS sidebar in Finder.
-- Finder > Settings > Advanced > Show all filename extensions > ON.
+- Finder > Settings > Advanced > Show all filename extensions > YES.
 - Install [Google Chrome](https://www.google.com/chrome/).
   - Set it as your default browser.
-  - Make sure AutoFill and Password Manager is OFF.
+  - Settings > Security and Privacy > AutoFill and Password Manager > each NO.
   - Set file downloads destination to "Ask Every Time".
 - Set up Terminal profile (text background color dark, opacity 92%, blur 0%, etc).
   - You can export/import this bundle as a `.terminal` file.
