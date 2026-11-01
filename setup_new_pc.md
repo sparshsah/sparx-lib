@@ -77,7 +77,7 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
   - You can activate it with `conda activate py_venv`.
     Then, things like `jupyter lab` immediately work.
   - You can refresh/update/upgrade everything once in a while with
-    `conda deactivate && conda remove --name=py_venv --all && conda update conda && conda create --name=py_venv python anaconda`.
+    `conda deactivate && conda remove --name=py_venv --all && conda self update && conda create --name=py_venv python anaconda`.
   - TODO: Evaluate migrating from Anaconda
     (admittedly bloated/clunky but also convenient for local scientific workflows,
     esp if you can accept the nuke-everything-and-blind-upgrade routine)
