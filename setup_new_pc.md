@@ -21,6 +21,7 @@ but are generally pretty safe.
   Prevent automatic sleeping on power adapter when the display is off > YES.
 - Pin `~` to the LHS sidebar in Finder.
 - Finder > Settings > Advanced > Show all filename extensions > YES.
+- Finder > View > Show View Options > Always open in list view > YES + "Use as Default".
 - Install [Google Chrome](https://www.google.com/chrome/).
   - Set it as your default browser.
   - Settings > Security and Privacy > AutoFill and Password Manager > each NO.
