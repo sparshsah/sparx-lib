@@ -52,6 +52,7 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
       AddKeysToAgent yes
       UseKeychain yes
       IdentityFile ~/.ssh/id_ed25519
+      IdentitiesOnly yes
   ```
   .
 - Let Mac remember your SSH key:
