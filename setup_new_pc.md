@@ -16,6 +16,9 @@ but are generally pretty safe.
 - System Settings > Desktop & Dock > Hot Corners > Bottom Right > DESKTOP.
 - System Settings > Desktop & Dock > Mission Control >
   Automatically rearrange Spaces based on most recent use > OFF.
+- Quasi-`caffeinate` on charger:
+  System Settings > Battery > Options >
+  Prevent automatic sleeping on power adapter when the display is off > YES.
 - Pin `~` to the LHS sidebar in Finder.
 - Finder > Settings > Advanced > Show all filename extensions > ON.
 - Install [Google Chrome](https://www.google.com/chrome/).
