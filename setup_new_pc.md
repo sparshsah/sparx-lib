@@ -75,7 +75,8 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
     - Note: conda's virtual environments are technically _not_ Python venvs.
     - Note: You may see `auto_activate` aliased as `auto_activate_base`.
   - Create a fresh Python virtual environment with `conda create --name=py_venv python anaconda`.
-  - You can activate it with `conda activate py_venv`.
+  - You can activate it with `conda activate py_venv`
+    wherever you want to work.
     Then, things like `jupyter lab` immediately work.
   - You can periodically refresh everything with
     `conda deactivate && conda remove --name=py_venv --all && conda self update && conda create --name=py_venv python anaconda`.
