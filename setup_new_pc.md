@@ -86,7 +86,6 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
     to [uv](https://docs.astral.sh/uv/) (with `pyproject.toml` +
     some HomeBrew-managed cross-dependencies like OpenMP/LibOMP for LightGBM)
     for lightweight, highly-configurable, reproducible, project-specific venvs.
-- Prepend to your PATH by adding the following to your `~/.zshrc`:
-  `export PATH="/path/to/your/code:/path/to/more/code:$PATH"`.
+    - This also makes it seamless to "install" local first-party packages.
 - [Install VS Code](https://code.visualstudio.com/download),
   optionally turning on Settings Sync and opening your notes doc.
