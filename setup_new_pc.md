@@ -69,6 +69,7 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
     which is susceptible to MitM attacks.
 - `mkdir` your directory structure (e.g. `~/Documents/repos/...`),
   and `git clone` whatever repos you want.
+- Install GitHub CLI: `brew install gh`.
 - [Install Anaconda](https://www.anaconda.com/docs/getting-started/anaconda/install/mac-cli-install).
   - Disable auto-activation of conda's `base` (v)env: `conda config --set auto_activate false`.
     - Note: conda's virtual environments are technically _not_ Python venvs.
