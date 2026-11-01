@@ -9,8 +9,8 @@ These tend to require hands and/or subjective taste,
 but are generally pretty safe.
 
 - Turn off fucking AutoCorrect:
-  - System Settings > Keyboard > Input Sources > Edit > Correct Spelling Automatically.
-  - System Settings > Keyboard > Input Sources > Text Replacements.
+  - System Settings > Keyboard > Input Sources > Edit > Correct Spelling Automatically > NO.
+  - System Settings > Keyboard > Input Sources > Text Replacements > NO.
 - Set dock location to LHS of screen.
   - You can also save/restore location/size/order as a plist.
 - System Settings > Desktop & Dock > Hot Corners > Bottom Right > DESKTOP.
