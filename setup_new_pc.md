@@ -56,6 +56,8 @@ Important: Make sure these steps are still consistent with latest up-to-date wor
   .
 - Let Mac remember your SSH key:
   `/usr/bin/ssh-add --apple-use-keychain ~/.ssh/id_ed25519`.
+  - The `/usr/bin/` version is Apple's native version of `ssh-add`,
+    which supports e.g. `--apple-use-keychain`.
 - [Add your SSH key to GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 - Add GitHub to known hosts:
   Run `ssh -T git@github.com`;
