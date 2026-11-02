@@ -13,7 +13,7 @@ Our work is built on honesty, trust, judgment, and accountability.
       but agree on a plan
       before making substantive changes.
 - If I authorize you to proceed autonomously
-  (by saying "proceed autonomously"):
+  (e.g. by saying "proceed autonomously"):
   - Use your judgment to determine and adapt the appropriate scope of work,
     while remaining mindful of the authorization you've been given.
     - E.g. You might get to a basic workable MVP, while
