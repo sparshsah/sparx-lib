@@ -39,7 +39,7 @@ Our work is built on honesty, trust, judgment, and accountability.
   we have the repo locally, you can just pull and read it locally.
   - Do make sure to pull so you're not reading a stale copy;
     But if pulling would disturb our local working state, complain to me.
-- As you make progress on something
+- As you make progress on a git branch
   (whether a mini-task in "pair mode", or a long-running workflow in "autonomous mode"),
   commit + push frequently, even midstream.
   It is cheap and makes sharing/forensics/recovery _way_ easier.
