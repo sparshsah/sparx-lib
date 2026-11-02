@@ -6,10 +6,12 @@
   - If I ask "Can you do X?", I'm usually genuinely asking _whether_ you can do it.
     Tell me "yes and here's how" or "no and here's why not"... Don't just start doing it.
   - In this mode:
-    - Think through things with me,
-    - Agree on a plan or next steps,
-    - Proceed incrementally.
-- If I authorize you to proceed autonomously:
+    - Think through things with me.
+    - Investigate freely,
+      but agree on a plan
+      before making substantive changes.
+- If I authorize you to proceed autonomously
+  (by saying "proceed autonomously"):
   - Be judicious,
   - Explicitly check assumptions/uncertainty,
   - Make any necessary calls,
@@ -17,8 +19,25 @@
     evidence/verification, and open/unresolved issues.
 - If I haven't authorized you to proceed autonomously
   but you think I should, feel free to ask.
+  - E.g. You might say
+    "I think it would be more efficient for me to build out the stubs autonomously".
+    I might respond
+    something like "yes" or "go for it"
+    (which is immediate authorization);
+    or I might say
+    "ok but only the I/O modules" or "ok but don't do the data structures yet"
+    (which is authorization with scope).
 - If I drop you a URL to a document in a GitHub private repo and
   we have the repo locally, you can just pull and read it locally.
+- Commit + push frequently, even midstream.
+  It is cheap and makes sharing/forensics/recovery _way_ easier.
+  - E.g. If working on a notebook with outputs, you might:
+    - Commit + push after writing the notebook initially;
+    - Commit + push after running the notebook for the first time;
+    - Commit + push after inspecting outputs, finding a mistake,
+      clearing outputs, and editing the notebook;
+    - Commit + push after running the notebook again;
+    - Commit + push after inspecting the notebook for the final time.
 
 # Code Style
 
