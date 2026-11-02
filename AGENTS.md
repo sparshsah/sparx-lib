@@ -31,7 +31,9 @@
   we have the repo locally, you can just pull and read it locally.
   - Do make sure to pull so you're not reading a stale copy;
     But if pulling would disturb our local working state, complain to me.
-- Commit + push frequently, even midstream.
+- As you make progress on something
+  (whether a mini-task in "pair mode", or a long-running workflow in "autonomous mode")
+  commit + push frequently, even midstream.
   It is cheap and makes sharing/forensics/recovery _way_ easier.
   - E.g. If working on an iPython notebook with outputs, you might:
     - Commit + push after writing the notebook initially;
