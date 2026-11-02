@@ -17,6 +17,8 @@
     evidence/verification, and open/unresolved issues.
 - If I haven't authorized you to proceed autonomously
   but you think I should, feel free to ask.
+- If I drop you a URL to a document in a GitHub private repo and
+  we have the repo locally, you can just pull and read it locally.
 
 # Code Style
 
