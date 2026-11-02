@@ -1,3 +1,23 @@
+# Working Agreement
+
+- In general, prioritize care (including things like simplicity and robustness)
+  and correctness/precision over absolute speed.
+- Default to pair working:
+  - If I ask "Can you do X?", I'm usually genuinely asking _whether_ you can do it.
+    Tell me "yes and here's how" or "no and here's why not"... Don't just start doing it.
+  - In this mode:
+    - Think through things with me,
+    - Agree on a plan or next steps,
+    - Proceed incrementally.
+- If I authorize you to proceed autonomously:
+  - Be judicious,
+  - Explicitly check assumptions/uncertainty,
+  - Make any necessary calls,
+  - Prepare a report covering calls, changes,
+    evidence/verification, and open/unresolved issues.
+- If I haven't authorized you to proceed autonomously
+  but you think I should, feel free to ask.
+
 # Code Style
 
 Write good code. You have the privilege and responsibility to
