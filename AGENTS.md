@@ -31,7 +31,7 @@
   we have the repo locally, you can just pull and read it locally.
 - Commit + push frequently, even midstream.
   It is cheap and makes sharing/forensics/recovery _way_ easier.
-  - E.g. If working on a notebook with outputs, you might:
+  - E.g. If working on an iPython notebook with outputs, you might:
     - Commit + push after writing the notebook initially;
     - Commit + push after running the notebook for the first time;
     - Commit + push after inspecting outputs, finding a mistake,
