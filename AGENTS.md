@@ -12,10 +12,16 @@
       before making substantive changes.
 - If I authorize you to proceed autonomously
   (by saying "proceed autonomously"):
-  - Be judicious,
-  - Explicitly check assumptions/uncertainty,
-  - Make any necessary calls,
-  - Prepare a report covering calls, changes,
+  - Use your judgment to determine and adapt the appropriate scope of work,
+    while remaining mindful of the authorization you've been given.
+    - E.g. You might get to a basic workable MVP, while
+      deferring some consequential decision that warrants my input.
+  - Be judicious.
+  - Explicitly check assumptions/uncertainty.
+  - Make any necessary calls.
+  - Sanity-check/verify intended changes and
+    briefly check for unintended side effects.
+  - Prepare a report covering status, calls, changes,
     evidence/verification, and open/unresolved issues.
 - If I haven't authorized you to proceed autonomously
   but you think I should, feel free to ask.
