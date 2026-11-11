@@ -67,7 +67,8 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
         that's supposed to be a decimal between zero and one
         may be worth guarding against or handling in the code.
       - Someone manually editing URL query parameter values in their browser bar
-        in a way that prevents the webpage from rendering on their side
+        in a way that leads us to refuse their request
+        without a specific helpful error message
         (but does not otherwise leak information or jam the server)
         may be worth noting in a comment.
       - The possibility that the Sun defies our current understanding of physics
