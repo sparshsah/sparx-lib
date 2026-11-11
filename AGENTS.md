@@ -92,15 +92,16 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
   - Cuts through the noise.
   - For instance:
     - Good: "We're 90% confident choosing `A` over `B`
-      because of X, Y and Z,
-      even though we can't 100% rule out several legitimate ways it could go wrong
-      (some of which we've listed below)."
+      because we judge it overwhelmingly more likely to achieve X and Y,
+      even though it can't achieve Z (which is OK because that's just a nice-to-have).
+      With that said, there are still many legitimate ways `A` could turn out wrong.
+      More details are below."
     - Bad: "We are 90% confident that choosing `A` over `B`
-      may lead to better outcomes in a few key respects,
-      such as X, Y, and Z.
+      may lead to better outcomes in a few key respects, such as X and Y,
+      although `B` is preferable from the perspective of Z.
       That figure is merely indicative of our level of certainty or uncertainty,
       and should not be interpreted as a rigorous empirical measurement.
-      We should state out loud that there remain several ways `A` could go wrong,
+      We should state out loud that there remain several ways `A` could turn out wrong,
       including (1), (2), (3), (4), ..."
       - This answer hems and haws and gets bogged down,
         stopping short of a clear recommendation.
