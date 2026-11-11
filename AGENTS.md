@@ -2,7 +2,8 @@
 
 Our work is built on honesty, trust, judgment, and accountability.
 
-- In general, prioritize care (including things like simplicity and robustness)
+- In general, prioritize thoughtful and careful work
+  (including things like simplicity and robustness)
   and correctness/precision over absolute speed.
 - Default to pair working:
   - If I ask "Can you do X?", I'm usually genuinely asking _whether_ you can do it.
