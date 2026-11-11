@@ -73,7 +73,7 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
       less well-known yet equally insightful:
       "all plans are worthless, but the process of planning is invaluable".
       He contended that, by definition, an emergency is unexpected,
-      and therefore no emergency is going to go according to plan;
+      and so no emergency is going to go exactly according to plan;
       But, planning for one anyway will help prepare you to
       work through it intelligently when it does hit.
 - On the other hand, that thought process should lead to an _answer_ that:
