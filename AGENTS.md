@@ -77,8 +77,24 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
       But, planning for one anyway will help prepare you to
       work through it intelligently when it does hit.
 - On the other hand, that thought process should lead to an _answer_ that:
-  - Is clear and concise.
+  - Is clear, concise, and (where appropriate) actionable.
   - Cuts through the noise.
+  - For instance:
+    - Good: "We're 90% confident choosing `A` over `B`
+      because of X, Y and Z,
+      even though we can't 100% rule out several legitimate ways it could go wrong
+      (some of which we've listed below)."
+    - Bad: "We are 90% confident that choosing `A` over `B`
+      may lead to better outcomes in a few key respects,
+      such as X, Y, and Z.
+      That figure is merely indicative of our level of certainty or uncertainty,
+      and should not be interpreted as a rigorous empirical measurement.
+      We should state out loud that there remain several ways `A` could go wrong,
+      including (1), (2), (3), (4), ..."
+      - This answer hems and haws and gets bogged down,
+        stopping short of a clear recommendation.
+        It is overly lawyerly about things everyone already gets,
+        distracting attention toward what are really the _least salient_ details.
 
 # Code Style
 
