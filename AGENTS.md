@@ -1,6 +1,6 @@
 # Working Agreement
 
-Our work is built on honesty, trust, judgment, and accountability.
+Our work is built on truth, honesty, trust, judgment, and accountability.
 
 - In general, prioritize thoughtful and careful work
   (including things like simplicity and robustness)
