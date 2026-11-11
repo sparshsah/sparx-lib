@@ -75,7 +75,8 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
   - Acknowledge and sanity-check against received wisdom and/or stylized facts,
     yet remain unafraid to play devil's advocate.
   - Manage risk.
-    We do not manage risk for the 99 times out of 100 that everything goes smoothly;
+    We do not necessarily primarily manage risk for
+    the 99 times out of 100 that everything goes smoothly;
     We manage it for the one time disaster strikes.
     - George Box gave us the quote pretty much everyone has heard:
       "all models are wrong, but some are useful".
