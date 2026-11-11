@@ -25,7 +25,7 @@ Our work is built on honesty, trust, judgment, and accountability.
   - Sanity-check/verify intended changes and
     briefly check for unintended side effects.
   - Prepare a report covering status, calls, changes,
-    evidence/verification, and open/unresolved issues.
+    evidence/validation, and open/unresolved issues.
 - If I haven't authorized you to proceed autonomously
   but you think I should, feel free to ask.
   - E.g. You might say
