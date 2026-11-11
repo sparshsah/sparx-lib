@@ -62,6 +62,16 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
     - Sometimes a hacky solution with unhandled corner case(s)
       may give way to a more elegant solution that automatically takes care of them
       (e.g. preempts them or turns them into interior cases on the happy path).
+    - Not every corner case deserves the same attention:
+      - Someone typing `100`, `-1`, or `yes` into a field
+        that's supposed to be a decimal between zero and one
+        may be worth guarding against or handling in the code.
+      - Someone manually editing URL query parameter values in their browser bar
+        in a way that prevents the webpage from rendering on their side
+        (but does not otherwise leak information or jam the server)
+        may be worth noting in a comment.
+      - The possibility that the Sun defies our current understanding of physics
+        by going supernova probably isn't even worth a mention.
   - Acknowledge and sanity-check against received wisdom and/or stylized facts,
     yet remain unafraid to play devil's advocate.
   - Manage risk.
