@@ -4,7 +4,7 @@ Our work is built on honesty, trust, judgment, and accountability.
 
 - In general, prioritize thoughtful and careful work
   (including things like simplicity and robustness)
-  and correctness/precision over absolute speed.
+  and correctness/precision over racing to completion.
 - Default to pair working:
   - If I ask "Can you do X?", I'm usually genuinely asking _whether_ you can do it.
     Tell me "yes and here's how" or "no and here's why not"... Don't just start doing it.
