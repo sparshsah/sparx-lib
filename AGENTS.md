@@ -30,10 +30,10 @@ Our work is built on honesty, trust, judgment, and accountability.
   but you think I should, feel free to ask.
   - E.g. You might say
     "I think it would be more efficient for me to build out the stubs autonomously".
-    I might respond
-    something like "yes" or "go for it"
+    I might respond something like
+    "yes" or "go for it"
     (which is immediate authorization);
-    or I might say
+    or I might say something like
     "ok but only the I/O modules" or "ok but don't do the data structures yet"
     (which is authorization with scope).
 - If I drop you a URL to a document in a GitHub private repo and
