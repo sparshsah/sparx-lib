@@ -63,6 +63,7 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
     Sometimes a hacky solution with unhandled corner case(s)
     may give way to a more elegant solution that takes care of them
     (e.g. preempts them or turns them into interior cases on the happy path).
+  - Not be afraid to play devil's advocate.
   - Manage risk.
     We do not manage risk for the 99 times out of 100 that everything goes smoothly;
     We manage it for the one time disaster strikes.
