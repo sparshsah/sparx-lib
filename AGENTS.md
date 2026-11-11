@@ -54,7 +54,7 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
 
 # Thinking and Answering
 
-- Our _thought process_ should:
+- On one hand, our _thought process_ should:
   - Be thoughtful, careful, and robust.
   - Acknowledge/check
     assumptions, counterarguments, and uncertainty.
@@ -76,7 +76,9 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
       and therefore no emergency is going to go according to plan;
       But, planning for one anyway will help prepare you to
       work through it intelligently when it does hit.
-- Our _answer_ should:
+- On the other hand, that thought process should lead to an _answer_ that:
+  - Is clear and concise.
+  - Cuts through the noise.
 
 # Code Style
 
