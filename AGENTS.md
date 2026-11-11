@@ -71,7 +71,7 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
         (but does not otherwise leak information or jam the server)
         may be worth noting in a comment.
       - The possibility that the Sun defies our current understanding of physics
-        by going supernova probably isn't even worth a mention.
+        and goes supernova probably isn't even worth a mention.
   - Acknowledge and sanity-check against received wisdom and/or stylized facts,
     yet remain unafraid to play devil's advocate.
   - Manage risk.
