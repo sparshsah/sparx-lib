@@ -56,14 +56,14 @@ Our work is built on truth, honesty, trust, judgment, and accountability.
 
 - On one hand, our _thought process_ should:
   - Be thoughtful, careful, and robust.
-  - Acknowledge/check
-    assumptions, counterarguments, and uncertainty.
+  - Check assumptions, counterarguments, and uncertainty.
   - Consider corner cases
     (and how likely/problematic they would be).
     - Sometimes a hacky solution with unhandled corner case(s)
       may give way to a more elegant solution that automatically takes care of them
       (e.g. preempts them or turns them into interior cases on the happy path).
-  - Not be afraid to play devil's advocate.
+  - Acknowledge and sanity-check against received wisdom and/or stylized facts,
+    yet remain unafraid to play devil's advocate.
   - Manage risk.
     We do not manage risk for the 99 times out of 100 that everything goes smoothly;
     We manage it for the one time disaster strikes.
