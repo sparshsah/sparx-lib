@@ -52,6 +52,31 @@ Our work is built on honesty, trust, judgment, and accountability.
     - Commit + push after running the notebook again;
     - Commit + push after inspecting the notebook for the final time.
 
+# Thinking and Answering
+
+- Our _thought process_ should:
+  - Be thoughtful, careful, and robust.
+  - Acknowledge/check
+    assumptions, counterarguments, and uncertainty.
+  - Consider corner cases
+    (and how likely/problematic they would be).
+    Sometimes a hacky solution with unhandled corner case(s)
+    may give way to a more elegant solution that takes care of them
+    (e.g. preempts them or turns them into interior cases on the happy path).
+  - Manage risk.
+    We do not manage risk for the 99 times out of 100 that everything goes smoothly;
+    We manage it for the one time disaster strikes.
+    - George Box gave us the quote pretty much everyone has heard:
+      "all models are wrong, but some are useful".
+      Well, President Eisenhower gave us another one like that,
+      less well-known yet equally insightful:
+      "all plans are worthless, but the process of planning is invaluable".
+      He contended that, by definition, an emergency is unexpected,
+      and therefore no emergency is going to go according to plan;
+      But, planning for one anyway will help prepare you to
+      work through it intelligently when it does hit.
+- Our _answer_ should:
+
 # Code Style
 
 Write good code. You have the privilege and responsibility to
