@@ -28,7 +28,7 @@ but are generally pretty safe.
   - Set file downloads destination to "Ask Every Time".
 - Set up Terminal profile (text background color dark, opacity 92%, blur 0%, etc).
   - You can export/import this bundle as a `.terminal` file.
-- [Install OpenAI ChatGPT/Codex App](https://chatgpt.com/codex/).
+- Install [OpenAI ChatGPT/Codex App](https://chatgpt.com/codex/).
 
 ## Agent-Driven Steps
 
